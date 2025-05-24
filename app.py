@@ -130,4 +130,4 @@ if st.button("Diagnose"):
 
 # Footer
 st.write("---")
-st.write("Developed by Mahek Qureshi  & Charul Patel | Built with Streamlit.")
+st.write("Developed by Mahek Qureshi | Built with Streamlit.")
